@@ -1,7 +1,7 @@
 # BigQuery Release Pulse ⚡
 
 A modern, responsive Python Flask web application designed to fetch, parse, search, and tweet Google Cloud BigQuery release notes in real time.
-
+建構於 Google「5天 AI Agents 密集 Vibe Coding 課程」的第二日實戰項目
 ## Features
 
 - **Automated RSS Feed Synchronization**: Automatically fetches and parses Google Cloud docs feed from `https://docs.cloud.google.com/feeds/bigquery-release-notes.xml`.
